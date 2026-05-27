@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefetch",
+        "uuid": 23128697,
+        "checksum": "djtmcq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
